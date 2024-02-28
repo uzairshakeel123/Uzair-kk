@@ -1,0 +1,4 @@
+const names = ["uzair", "kk", "Ahmed", "kk"];
+for (let i = 0; i < names.length; i++) {
+    console.log(names[i]);
+}
